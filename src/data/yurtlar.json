@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name_tr": "Kilis KYK Kız Öğrenci Yurdu",
+        "name_ar": "سكن KYK للإناث في كيليس",
+        "type": "kyk",
+        "price_range": "450 - 550 TL",
+        "distance": "Kampüs içinde / Yanında",
+        "location": "https://maps.google.com/?q=36.7172,37.1212",
+        "whatsapp": "+905000000000",
+        "image": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": "2",
+        "name_tr": "Mercidabık KYK Kız Yurdu",
+        "name_ar": "سكن مرج دابق KYK للإناث",
+        "type": "kyk",
+        "price_range": "450 - 550 TL",
+        "distance": "Kampüs uzağında (Servis var)",
+        "location": "https://maps.google.com/?q=36.7200,37.1150",
+        "whatsapp": "+905000000001",
+        "image": "https://images.unsplash.com/photo-1595246140625-573b715d11dc?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": "3",
+        "name_tr": "Bilal-i Habeşi Erkek Yurdu",
+        "name_ar": "سكن بلال الحبشي للذكور",
+        "type": "kyk",
+        "price_range": "450 - 550 TL",
+        "distance": "Kampüs çevresi",
+        "location": "https://maps.google.com/?q=36.7165,37.1185",
+        "whatsapp": "+905000000002",
+        "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": "4",
+        "name_tr": "Kartal Bey Erkek Yurdu",
+        "name_ar": "سكن كارتال بيه للذكور",
+        "type": "kyk",
+        "price_range": "450 - 550 TL",
+        "distance": "Beşevler Bölgesi",
+        "location": "https://maps.google.com/?q=36.7180,37.1225",
+        "whatsapp": "+905000000003",
+        "image": "https://images.unsplash.com/photo-1560184897-67f4a3f9a7fa?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": "5",
+        "name_tr": "Özel Kilis Akademi Kız Yurdu",
+        "name_ar": "سكن أكاديمية كيليس الخاص للإناث",
+        "type": "ozel",
+        "price_range": "5000 - 8000 TL",
+        "distance": "Şehir Merkezi",
+        "location": "https://maps.google.com/?q=36.7190,37.1195",
+        "whatsapp": "+905550000000",
+        "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": "6",
+        "name_tr": "Kilis 7 Aralık Üniversitesi Konukevi",
+        "name_ar": "بيت ضيافة جامعة كيليس 7 أراليك",
+        "type": "ozel",
+        "price_range": "6000 - 9000 TL",
+        "distance": "Kampüs İçi",
+        "location": "https://maps.google.com/?q=36.7170,37.1210",
+        "whatsapp": "+905000000004",
+        "image": "https://images.unsplash.com/photo-1595846519845-68e298c2edd8?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": "7",
+        "name_tr": "Özel Altın Hilal Erkek Öğrenci Yurdu",
+        "name_ar": "سكن الهلال الذهبي الخاص للطلاب الذكور",
+        "type": "ozel",
+        "price_range": "4000 - 6000 TL",
+        "distance": "Beşevler",
+        "location": "https://maps.google.com/?q=36.7220,37.1250",
+        "whatsapp": "+905000000005",
+        "image": "https://images.unsplash.com/photo-1540518614846-7eded433c457?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": "8",
+        "name_tr": "TÜGVA Kilis Yükseköğretim Erkek Öğrenci Yurdu",
+        "name_ar": "سكن TÜGVA كيليس للتعليم العالي للطلاب الذكور",
+        "type": "ozel",
+        "price_range": "3000 - 5000 TL",
+        "distance": "Şehir Merkezi",
+        "location": "https://maps.google.com/?q=36.7150,37.1100",
+        "whatsapp": "+905000000006",
+        "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=80&w=800"
+    }
+]

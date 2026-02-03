@@ -1,0 +1,132 @@
+[
+    {
+        "id": "1",
+        "name_tr": "Tarihi Kilis Sokakları",
+        "name_ar": "شوارع كيليس التاريخية",
+        "category": "kampus-cevresi",
+        "description_tr": "Kilis'in tarihi dokusunu hissedebileceğiniz dar yollar ve eski evler.",
+        "description_ar": "طرق ضيقة ومنازل قديمة حيث يمكنك الشعور بالنسيج التاريخي لكيليس.",
+        "image": "https://images.unsplash.com/photo-1548625361-1ece74514ac0?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "2",
+        "name_tr": "Borsa Kebap Salonu",
+        "name_ar": "مطعم بورصة للكباب",
+        "category": "ucuz-yerler",
+        "description_tr": "Meşhur Kilis Tava'yı uygun fiyata yiyebileceğiniz yerel kebapçı.",
+        "description_ar": "مطعم كباب محلي حيث يمكنك تناول كباب كيليس الشهير (Kilis Tava) بسعر مناسب.",
+        "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "3",
+        "name_tr": "Kilis Belediyesi Sosyal Tesisleri",
+        "name_ar": "المرافق الاجتماعية لبلدية كيليس",
+        "category": "ucuz-yerler",
+        "description_tr": "Öğrenciler için uygun fiyatlı kahvaltı ve öğle yemeği seçenekleri.",
+        "description_ar": "خيارات الإفطار والغداء ميسورة التكلفة للطلاب.",
+        "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "4",
+        "name_tr": "Resul Osman Dağı Mesire Alanı",
+        "name_ar": "منطقة التنزه في جبل رسول عثمان",
+        "category": "kampus-cevresi",
+        "description_tr": "Kilis manzarasına karşı piknik yapabileceğiniz temiz hava alanı.",
+        "description_ar": "منطقة هواء نقي حيث يمكنك التنزه والاستمتاع بإطلالة كيليس.",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "5",
+        "name_tr": "Kahve Durağı",
+        "name_ar": "موقف القهوة",
+        "category": "kampus-cevresi",
+        "description_tr": "Ders aralarında arkadaşlarınızla kahve içip sohbet edebileceğiniz nezih bir mekan.",
+        "description_ar": "مكان لائق حيث يمكنك شرب القهوة والدردشة مع أصدقائك بين الدروس.",
+        "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "6",
+        "name_tr": "Özlem Kırtasiye",
+        "name_ar": "قرطاسية أوزليم",
+        "category": "kampus-cevresi",
+        "description_tr": "Tüm ders notları, fotokopi ve kırtasiye ihtiyaçlarınız için en kapsamlı adres.",
+        "description_ar": "العنوان الأكثر شمولاً لجميع مذكرات الدرس، وتصوير المستندات، واحتياجات القرطاسية.",
+        "image": "https://images.unsplash.com/photo-1519331379826-302491516088?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "7",
+        "name_tr": "Akram Döner",
+        "name_ar": "أكرم دونر",
+        "category": "ucuz-yerler",
+        "description_tr": "Öğrencilerin vazgeçilmezi, uygun fiyatlı ve doyurucu tavuk döner.",
+        "description_ar": "لا غنى عنه للطلاب، دجاج دونر بأسعار معقولة ومشبعة.",
+        "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "8",
+        "name_tr": "Kilis Devlet Hastanesi",
+        "name_ar": "مستشفى كيليس الحكومي",
+        "category": "acil",
+        "description_tr": "7/24 Acil servis ve poliklinik hizmetleri ile tam teşekküllü hastane.",
+        "description_ar": "مستشفى متكامل مع خدمة الطوارئ والعيادات الخارجية 24/7.",
+        "image": "https://images.unsplash.com/photo-1587351021759-3e566b6c4b64?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "9",
+        "name_tr": "Hasan Usta Kadayıf",
+        "name_ar": "حسن أسطا قطايف",
+        "category": "kampus-cevresi",
+        "description_tr": "Kilis'in meşhur tatlılarını deneyebileceğiniz tarihi tatlıcı.",
+        "description_ar": "محل حلويات تاريخي حيث يمكنك تجربة حلويات كيليس الشهيرة.",
+        "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "10",
+        "name_tr": "Şehir Parkı",
+        "name_ar": "حديقة المدينة",
+        "category": "kampus-cevresi",
+        "description_tr": "Yürüyüş yapabileceğiniz ve temiz hava alabileceğiniz geniş yeşil alan.",
+        "description_ar": "منطقة خضراء واسعة حيث يمكنك المشي واستنشاق الهواء النقي.",
+        "image": "https://images.unsplash.com/photo-1585938389612-a552a28d6914?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "11",
+        "name_tr": "Kilis Sineması",
+        "name_ar": "سينما كيليس",
+        "category": "eglence",
+        "description_tr": "Vizyondaki en yeni filmleri izleyebileceğiniz modern sinema salonu.",
+        "description_ar": "سينما حديثة حيث يمكنك مشاهدة أحدث الأفلام.",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "12",
+        "name_tr": "Kilis AVM",
+        "name_ar": "مول كيليس",
+        "category": "alisveris",
+        "description_tr": "Giyimden teknolojiye tüm ihtiyaçlarınızı bulabileceğiniz alışveriş merkezi.",
+        "description_ar": "مركز تسوق حيث يمكنك العثور على جميع احتياجاتك من الملابس إلى التكنولوجيا.",
+        "image": "https://images.unsplash.com/photo-1519567241046-7f570eee3d9f?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    },
+    {
+        "id": "13",
+        "name_tr": "Üniversite Kütüphanesi",
+        "name_ar": "مكتبة الجامعة",
+        "category": "kampus",
+        "description_tr": "Sessiz çalışma ortamı ve zengin kaynakları ile 7/24 açık kütüphane.",
+        "description_ar": "مكتبة مفتوحة 24/7 مع بيئة دراسة هادئة وموارد غنية.",
+        "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&q=80&w=800",
+        "maps_link": "https://maps.google.com"
+    }
+]

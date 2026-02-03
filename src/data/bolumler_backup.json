@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1",
+    "name_tr": "Bilgisayar Mühendisliği",
+    "name_ar": "هندسة الكمبيوتر",
+    "slug": "bilgisayar-muhendisligi",
+    "faculty_tr": "Mühendislik-Mimarlık Fakültesi",
+    "faculty_ar": "كلية الهندسة والعمارة",
+    "description_tr": "Yazılım, donanım ve ağ sistemleri üzerine uzmanlaşan mühendisler yetiştirir.",
+    "description_ar": "يقوم بتدريب المهندسين المتخصصين في البرمجيات والأجهزة وأنظمة الشبكات.",
+    "hero_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Matematik ve mantık ağırlıklı, sabır gerektiren bir bölümdür.",
+      "career": "Yazılım Uzmanı, Sistem Analisti, Siber Güvenlik Uzmanı.",
+      "kilis_advantage": "Kilis'te teknolojiye olan ilgi artıyor; düşük maliyetli yaşam, projelerinize odaklanmanızı sağlar."
+    },
+    "features_ar": {
+      "is_hard": "إنه قسم يتطلب مهارات رياضية ومنطقية وصبرًا.",
+      "career": "خبير برمجيات، محلل نظم، خبير أمن سيبراني.",
+      "kilis_advantage": "يتزايد الاهتمام بالتكنولوجيا في كيليس؛ تتيح لك المعيشة منخفضة التكلفة التركيز على مشاريعك."
+    }
+  },
+  {
+    "id": "2",
+    "name_tr": "İlahiyat",
+    "name_ar": "الإلهيات",
+    "slug": "ilahiyat",
+    "faculty_tr": "İlahiyat Fakültesi",
+    "faculty_ar": "كلية الإلهيات",
+    "description_tr": "İslami bilimler, felsefe ve dinler tarihi üzerine derinlemesine eğitim verir.",
+    "description_ar": "يوفر تعليمًا متعمقًا في العلوم الإسلامية والفلسفة وتاريخ الأديان.",
+    "hero_image": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Arapça hazırlık sınıfı zorlayıcı olabilir ancak akademik derinlik kazandırır.",
+      "career": "Din Kültürü Öğretmeni, Akademisyen, Müftülük Personeli.",
+      "kilis_advantage": "Kilis'in tarihi ve kültürel yapısı, İslami ilimler için doğal bir laboratuvar sunar."
+    },
+    "features_ar": {
+      "is_hard": "قد تكون السنة التحضيرية للغة العربية صعبة ولكنها توفر عمقًا أكاديميًا.",
+      "career": "مدرس ثقافة دينية، أكاديمي، موظف في دار الإفتاء.",
+      "kilis_advantage": "يوفر الهيكل التاريخي والثقافي لكيليس مختبرًا طبيعيًا للعلوم الإسلامية."
+    }
+  },
+  {
+    "id": "3",
+    "name_tr": "Hemşirelik",
+    "name_ar": "التمريض",
+    "slug": "hemsirelik",
+    "faculty_tr": "Yusuf Şerefoğlu Sağlık Bilimleri Fakültesi",
+    "faculty_ar": "كلية يوسف شريف أوغلو للعلوم الصحية",
+    "description_tr": "Sağlık hizmetlerinin temel taşı olan profesyonel hemşireler yetiştirir.",
+    "description_ar": "يقوم بتدريب الممرضات المحترفات اللواتي يشكلن حجر الزاوية في الخدمات الصحية.",
+    "hero_image": "https://images.unsplash.com/photo-1576091160550-217359f49fdb?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Pratik uygulama ve staj yoğunluğu yüksektir.",
+      "career": "Hastanelerde Hemşire, Sağlık Bakım Yöneticisi.",
+      "kilis_advantage": "Kilis Devlet Hastanesi'nde staj imkanları ve yeni kampüs olanakları mevcuttur."
+    },
+    "features_ar": {
+      "is_hard": "كثافة التطبيق العملي والتدريب الداخلي عالية.",
+      "career": "ممرضة في المستشفيات، مديرة رعاية صحية.",
+      "kilis_advantage": "تتوفر فرص التدريب الداخلي في مستشفى كيليس الحكومي ومرافق الحرم الجامعي الجديد."
+    }
+  },
+  {
+    "id": "4",
+    "name_tr": "Özel Eğitim Öğretmenliği",
+    "name_ar": "تربية ذوي الاحتياجات الخاصة",
+    "slug": "ozel-egitim-ogretmenligi",
+    "faculty_tr": "Kilisli Muallim Rıfat Eğitim Fakültesi",
+    "faculty_ar": "كلية كيليسلي معالم رفعت للتربية",
+    "description_tr": "Özel ihtiyaçları olan bireylere eğitim verecek uzmanlar yetiştirir.",
+    "description_ar": "يقوم بتدريب الخبراء الذين سيقومون بتعليم الأفراد ذوي الاحتياجات الخاصة.",
+    "hero_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Sabır ve empati yeteneği en az dersler kadar önemlidir.",
+      "career": "Özel Eğitim Öğretmeni, RAM Uzmanı, Rehabilitasyon Merkezi Yöneticisi.",
+      "kilis_advantage": "Kilis'in samimi halk yapısı ve uygulama okullarına yakınlığı avantajdır."
+    },
+    "features_ar": {
+      "is_hard": "الصبر والقدرة على التعاطف لا يقلان أهمية عن الدروس.",
+      "career": "مدرس تربية خاصة، خبير RAM، مدير مركز إعادة تأهيل.",
+      "kilis_advantage": "تعد البنية الاجتماعية الودودة لكيليس وقربها من مدارس التطبيق ميزة."
+    }
+  },
+  {
+    "id": "5",
+    "name_tr": "İnşaat Mühendisliği",
+    "name_ar": "الهندسة المدنية",
+    "slug": "insaat-muhendisligi",
+    "faculty_tr": "Mühendislik-Mimarlık Fakültesi",
+    "faculty_ar": "كلية الهندسة والعمارة",
+    "description_tr": "Yapı tasarımı, malzeme ve altyapı sistemleri üzerine uzmanlaşır.",
+    "description_ar": "متخصص في تصميم المباني والمواد وأنظمة البنية التحتية.",
+    "hero_image": "https://images.unsplash.com/photo-1503387762-592dea58ef23?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Sayısal düşünme ve teknik çizim becerisi ön plandadır.",
+      "career": "Şantiye Şefi, Yapı Denetim Uzmanı, Tasarım Mühendisi.",
+      "kilis_advantage": "Kilis'te devam eden yeni yapılaşma projeleri saha gözlemi için fırsat sunar."
+    },
+    "features_ar": {
+      "is_hard": "التفكير العددي ومهارات الرسم الفني هي في المقدمة.",
+      "career": "مدير موقع، خبير تفتيش بناء، مهندس تصميم.",
+      "kilis_advantage": "توفر مشاريع البناء الجديدة الجارية في كيليس فرصًا للمراقبة الميدانية."
+    }
+  },
+  {
+    "id": "6",
+    "name_tr": "Arap Dili ve Edebiyatı",
+    "name_ar": "اللغة العربية وآدابها",
+    "slug": "arap-dili-ve-edebiyati",
+    "faculty_tr": "İnsan ve Toplum Bilimleri Fakültesi",
+    "faculty_ar": "كلية العلوم الإنسانية والاجتماعية",
+    "description_tr": "Arapça dil bilgisi, edebiyat ve kültür üzerine derinlemesine eğitim verir.",
+    "description_ar": "يوفر تعليمًا متعمقًا في قواعد اللغة العربية وأدبها وثقافتها.",
+    "hero_image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Dil sevgisi ve yoğun okuma gerektiren bir bölümdür.",
+      "career": "Çevirmen, Editör, Akademisyen.",
+      "kilis_advantage": "Suriye sınırındaki Kilis, dil pratiği için en iyi şehirdir."
+    },
+    "features_ar": {
+      "is_hard": "إنه قسم يتطلب حب اللغة والقراءة المكثفة.",
+      "career": "مترجم، محرر، أكاديمي.",
+      "kilis_advantage": "كيليس، الواقعة على الحدود السورية، هي أفضل مدينة لممارسة اللغة."
+    }
+  },
+  {
+    "id": "14",
+    "name_tr": "Coğrafya",
+    "name_ar": "الجغرافيا",
+    "slug": "cografya",
+    "faculty_tr": "İnsan ve Toplum Bilimleri Fakültesi",
+    "faculty_ar": "كلية العلوم الإنسانية والاجتماعية",
+    "description_tr": "Yeryüzü şekilleri, iklim ve beşeri coğrafya üzerine uzmanlık sağlar.",
+    "description_ar": "يوفر الخبرة في تضاريس الأرض والمناخ والجغرافيا البشرية.",
+    "hero_image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Arazi çalışmaları ve harita bilgisi gerektirir.",
+      "career": "Coğrafyacı, CBS Uzmanı, Öğretmen.",
+      "kilis_advantage": "Kilis'in zengin tarım arazileri ve jeopolitik konumu saha çalışmaları için idealdir."
+    },
+    "features_ar": {
+      "is_hard": "تطلب العمل الميداني ومعرفة الخرائط.",
+      "career": "جغرافي، خبير نظم المعلومات الجغرافية، مدرس.",
+      "kilis_advantage": "تعتبر الأراضي الزراعية الغنية في كيليس وموقعها الجيوسياسي مثالية للدراسات الميدانية."
+    }
+  },
+  {
+    "id": "15",
+    "name_tr": "İktisat",
+    "name_ar": "الاقتصاد",
+    "slug": "iktisat",
+    "faculty_tr": "İktisadi ve İdari Bilimler Fakültesi",
+    "faculty_ar": "كلية العلوم الاقتصادية والإدارية",
+    "description_tr": "Mikro ve makro ekonomi, finans ve matematiksel modeller üzerine eğitim.",
+    "description_ar": "تعليم في الاقتصاد الجزئي والكلي والتمويل والنماذج الرياضية.",
+    "hero_image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Matematiksel analiz ve güncel olay takibi gerektirir.",
+      "career": "Ekonomist, Bankacı, Finans Uzmanı.",
+      "kilis_advantage": "Kilis'teki sanayi bölgeleri ve dış ticaret hacmi kariyer fırsatı sunar."
+    },
+    "features_ar": {
+      "is_hard": "يتطلب التحليل الرياضي ومتابعة الأحداث الجارية.",
+      "career": "اقتصادي، مصرفي، خبير مالي.",
+      "kilis_advantage": "توفر المناطق الصناعية في كيليس وحجم التجارة الخارجية فرصًا وظيفية."
+    }
+  },
+  {
+    "id": "16",
+    "name_tr": "Türkçe Öğretmenliği",
+    "name_ar": "تدريس اللغة التركية",
+    "slug": "turkce-ogretmenligi",
+    "faculty_tr": "Kilisli Muallim Rıfat Eğitim Fakültesi",
+    "faculty_ar": "كلية كيليسلي معالم رفعت للتربية",
+    "description_tr": "Ana dili Türkçeyi gelecek nesillere en iyi şekilde öğretecek öğretmenler yetiştirir.",
+    "description_ar": "يقوم بتدريب المعلمين الذين سيعلمون لغتهم الأم، اللغة التركية، للأجيال القادمة بأفضل طريقة ممكنة.",
+    "hero_image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Edebiyat sevgisi ve etkili iletişim becerisi şarttır.",
+      "career": "Türkçe Öğretmeni, Yazar, Editör.",
+      "kilis_advantage": "Kilis'in kültürel yapısı sözlü ve yazılı edebiyat için zengin bir kaynaktır."
+    },
+    "features_ar": {
+      "is_hard": "حب الأدب ومهارات التواصل الفعال أمر لا بد منه.",
+      "career": "مدرس لغة تركية، كاتب، محرر.",
+      "kilis_advantage": "تعتبر البنية الثقافية لكيليس مصدرًا غنيًا للأدب الشفهي والمكتوب."
+    }
+  },
+  {
+    "id": "17",
+    "name_tr": "Elektrik-Elektronik Mühendisliği",
+    "name_ar": "الهندسة الكهربائية والإلكترونية",
+    "slug": "elektrik-elektronik-muhendisligi",
+    "faculty_tr": "Mühendislik-Mimarlık Fakültesi",
+    "faculty_ar": "كلية الهندسة والعمارة",
+    "description_tr": "Elektrik devreleri, otomasyon ve yazılım sistemleri üzerine uzmanlar yetiştirir.",
+    "description_ar": "يقوم بتدريب الخبراء في الدوائر الكهربائية والتحكم الآلي وأنظمة البرمجيا.",
+    "hero_image": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Fizik ve ileri matematik temeli gerektiren ağır bir bölümdür.",
+      "career": "Tasarım Mühendisi, Kontrol Uzmanı, Ar-Ge Mühendisi.",
+      "kilis_advantage": "Kilis'teki enerji projeleri ve sanayi gelişimi saha pratiği sunar."
+    },
+    "features_ar": {
+      "is_hard": "إنه قسم ثقيل يتطلب أساسًا في الفيزياء والرياضيات المتقدمة.",
+      "career": "مهندس تصميم، خبير تحكم، مهندس بحث وتطوير.",
+      "kilis_advantage": "توفر مشاريع الطاقة والتنمية الصناعية في كيليس ممارسة ميدانية."
+    }
+  },
+  {
+    "id": "18",
+    "name_tr": "Çocuk Gelişimi (Önlisans)",
+    "name_ar": "تنمية الطفل (دبلوم)",
+    "slug": "cocukgelisimi-myo",
+    "faculty_tr": "Sağlık Hizmetleri Meslek Yüksekokulu",
+    "faculty_ar": "المدرسة المهنية للخدمات الصحية",
+    "description_tr": "0-18 yaş çocukların gelişimi ve eğitimi üzerine teknik eğitim verir.",
+    "description_ar": "يوفر تعليمًا فنيًا حول تنمية وتعليم الأطفال من عمر 0-18 عامًا.",
+    "hero_image": "https://images.unsplash.com/photo-1484662020986-75935d2ebc66?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Sabır, şefkat ve yaratıcılık başarının anahtarıdır.",
+      "career": "Okul Öncesi Yardımcısı, Çocuk Gelişimi Teknikeri.",
+      "kilis_advantage": "Kilis'teki devlet kreşleri ve hastanelerde geniş staj imkanı."
+    },
+    "features_ar": {
+      "is_hard": "الصبر والعطف والإبداع هي مفاتيح النجاح.",
+      "career": "مساعد مرحلة ما قبل المدرسة، فني تنمية الطفل.",
+      "kilis_advantage": "فرص تدريب واسعة في دور الحضانة الحكومية والمستشفيات في كيليس."
+    }
+  },
+  {
+    "id": "19",
+    "name_tr": "Gastronomi ve Mutfak Sanatları",
+    "name_ar": "فن الطهي وفنون المطبخ",
+    "slug": "gastronomi-ve-mutfak-sanatlari",
+    "faculty_tr": "Turizm ve Otelcilik Meslek Yüksekokulu",
+    "faculty_ar": "المدرسة المهنية للسياحة والفندقة",
+    "description_tr": "Dünya ve Türk mutfağı üzerine profesyonel şefler yetiştirir.",
+    "description_ar": "يقوم بتدريب الطهاة المحترفين في المطبخ العالمي والتركي.",
+    "hero_image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Uzun çalışma saatleri ve mutfak disiplini gerektirir.",
+      "career": "Head Chef, Mutfak Danışmanı, Girişimci.",
+      "kilis_advantage": "UNESCO Yaratıcı Şehirler Adayı Kilis'in muazzam yemek kültürü."
+    },
+    "features_ar": {
+      "is_hard": "يتطلب ساعات عمل طويلة وانضباط في المطبخ.",
+      "career": "رئيس طهاة، مستشار مطبخ، رائد أعمال.",
+      "kilis_advantage": "ثقافة الطعام الهائلة في كيليس، المرشحة لشبكة المدن المبدعة لليونسكو."
+    }
+  },
+  {
+    "id": "20",
+    "name_tr": "Fizyoterapi (Önlisans)",
+    "name_ar": "العلاج الطبيعي (دبلوم)",
+    "slug": "fizyoterapi-myo",
+    "faculty_tr": "Sağlık Hizmetleri Meslek Yüksekokulu",
+    "faculty_ar": "المدرسة المهنية للخدمات الصحية",
+    "description_tr": "Rehabilitasyon ve fizik tedavi süreçlerinde uzman teknikeri yetiştirir.",
+    "description_ar": "يقوم بتدريب الفنيين الخبراء في عمليات إعادة التأهيل والعلاج الطبيعي.",
+    "hero_image": "https://images.unsplash.com/photo-1576091160550-217359f49fdb?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Anatomi ve biyoloji bilgisi odaklıdır.",
+      "career": "Fizik Tedavi Teknikeri, Spor Kulüpleri Personeli.",
+      "kilis_advantage": "Yeni açılan rehabilitasyon merkezleri ile iş garantisi."
+    },
+    "features_ar": {
+      "is_hard": "يرتكز على المعرفة بالتشريح وعلم الأحياء.",
+      "career": "فني علاج طبيعي، موظف في النوادي الرياضية.",
+      "kilis_advantage": "ضمان وظيفي مع مراكز إعادة التأهيل التي افتتحت حديثًا."
+    }
+  },
+  {
+    "id": "21",
+    "name_tr": "Yazılım Mühendisliği",
+    "name_ar": "هندسة البرمجيات",
+    "slug": "yazilim-muhendisligi",
+    "faculty_tr": "Mühendislik-Mimarlık Fakültesi",
+    "faculty_ar": "كلية الهندسة والعمارة",
+    "description_tr": "Yazılım geliştirme süreçleri ve yapay zeka sistemleri üzerine eğitim.",
+    "description_ar": "التعليم في عمليات تطوير البرمجيات وأنظمة الذكاء الاصطناعي.",
+    "hero_image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Sürekli güncellenen teknolojileri takip etme hızı gerektirir.",
+      "career": "Yazılım Geliştirici, Full Stack Engineer.",
+      "kilis_advantage": "Uzaktan çalışma (remote) imkanıyla Kilis'te düşük maliyetle yüksek gelir."
+    },
+    "features_ar": {
+      "is_hard": "يتطلب سرعة في متابعة التقنيات المحدثة باستمرار.",
+      "career": "مطور برمجيات، مهندس Full Stack.",
+      "kilis_advantage": "دخل مرتفع بتكلفة منخفضة في كيليس مع إمكانية العمل عن بعد."
+    }
+  },
+  {
+    "id": "22",
+    "name_tr": "Matematik",
+    "name_ar": "الرياضيات",
+    "slug": "matematik",
+    "faculty_tr": "Fen Fakültesi",
+    "faculty_ar": "كلية العلوم",
+    "description_tr": "Temel matematik teorileri ve soyut düşünme üzerine bilimsel eğitim.",
+    "description_ar": "تعليم علمي في نظريات الرياضيات الأساسية والتفكير التجريدي.",
+    "hero_image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Analitik zeka ve yoğun problem çözme disiplini gerektirir.",
+      "career": "Akademisyen, Veri Analisti, Yazılımcı.",
+      "kilis_advantage": "Sakin bir kampüs ortamı, derin akademik çalışmalar için huzur verir."
+    },
+    "features_ar": {
+      "is_hard": "يتطلب ذكاءً تحليليًا وانضباطًا مكثفًا في حل المشكلات.",
+      "career": "أكاديمي، محلل بيانات، مبرمج.",
+      "kilis_advantage": "بيئة الحرم الجامعي الهادئة توفر السلام للدراسات الأكاديمية العميقة."
+    }
+  },
+  {
+    "id": "23",
+    "name_tr": "Okul Öncesi Öğretmenliği",
+    "name_ar": "التعليم ما قبل المدرسي",
+    "slug": "okul-oncesi-ogretmenligi",
+    "faculty_tr": "Kilisli Muallim Rıfat Eğitim Fakültesi",
+    "faculty_ar": "كلية كيليسلي معالم رفعت للتربية",
+    "description_tr": "Okul öncesi eğitimde uzmanlaşan öğretmenler yetiştirir.",
+    "description_ar": "يقوم بتدريب المعلمين المتخصصين في التعليم ما قبل المدرسي.",
+    "hero_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Çocuklarla iletişim ve pedagojik formasyon odaklıdır.",
+      "career": "Anaokulu Öğretmeni, Eğitim Uzmanı.",
+      "kilis_advantage": "Bölgedeki çocuk nüfusunun yoğunluğu, staj için büyük fırsattır."
+    },
+    "features_ar": {
+      "is_hard": "يركز على التواصل مع الأطفال والتكوين التربوي.",
+      "career": "معلم روضة أطفال، خبير تربوي.",
+      "kilis_advantage": "كثافة الأطفال في المنطقة فرصة عظيمة للتدريب."
+    }
+  },
+  {
+    "id": "24",
+    "name_tr": "Dış Ticaret (Önlisans)",
+    "name_ar": "التجارة الخارجية (دبلوم)",
+    "slug": "dis-ticaret-myo",
+    "faculty_tr": "Sosyal Bilimler Meslek Yüksekokulu",
+    "faculty_ar": "المدرسة المهنية للعلوم الاجتماعية",
+    "description_tr": "Gümrük, lojistik ve uluslararası ticaret teknikeri yetiştirir.",
+    "description_ar": "يقوم بتدريب الفنيين في الجمارك والخدمات اللوجستية والتجارة الدولية.",
+    "hero_image": "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&q=80&w=1200",
+    "features_tr": {
+      "is_hard": "Piyasa takibi ve mevzuat bilgisi gerektirir.",
+      "career": "Gümrük Müşavir Yardımcısı, Logistics Specialist.",
+      "kilis_advantage": "Öncüpınar Sınır Kapısı ile doğrudan uygulama alanı sağlar."
+    },
+    "features_ar": {
+      "is_hard": "يتطلب متابعة السوق ومعرفة التشريعات.",
+      "career": "مساعد مخلص جمركي، أخصائي لوجستيات.",
+      "kilis_advantage": "يوفر مجال تطبيق مباشر من خلال بوابة أونجوبينار الحدودية."
+    }
+  }
+]

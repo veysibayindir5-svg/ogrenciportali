@@ -1,0 +1,198 @@
+.dept-detail-page {
+    padding-bottom: 4rem;
+}
+
+.dept-hero {
+    position: relative;
+    height: 50vh;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-bottom: 4rem;
+    overflow: hidden;
+    margin-top: -70px;
+    /* Pull up behind navbar if needed, or adjust based on layout */
+}
+
+.hero-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(15, 23, 42, 0.3), rgba(15, 23, 42, 0.9));
+    z-index: 1;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.dept-hero .faculty-name {
+    background: rgba(6, 182, 212, 0.2);
+    color: #06b6d4;
+    padding: 0.6rem 1.5rem;
+    border-radius: 50px;
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(6, 182, 212, 0.3);
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+}
+
+.dept-hero h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+    margin: 0;
+    text-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    line-height: 1.2;
+}
+
+.dept-grid {
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: 3rem;
+}
+
+.dept-sidebar {
+    background: rgba(30, 41, 59, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 2rem;
+    border-radius: 24px;
+    height: fit-content;
+    position: sticky;
+    top: 100px;
+}
+
+.sidebar-section {
+    margin-bottom: 2.5rem;
+}
+
+.sidebar-section:last-child {
+    margin-bottom: 0;
+}
+
+.sidebar-section h4 {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    color: var(--primary);
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 0.8rem;
+}
+
+.sidebar-section p {
+    color: var(--muted);
+    line-height: 1.7;
+}
+
+.dept-main {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+/* Info Cards - Dark Theme Fix */
+.info-card {
+    background: rgba(30, 41, 59, 0.4);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 2.5rem;
+    border-radius: 24px;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.info-card:hover {
+    transform: translateY(-5px);
+    background: rgba(30, 41, 59, 0.6);
+    border-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.info-card h3 {
+    margin: 1.5rem 0 1rem;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.info-card p {
+    color: var(--muted);
+    line-height: 1.7;
+    font-size: 1.05rem;
+}
+
+.info-card.highlighted {
+    background: linear-gradient(135deg, rgba(6, 182, 212, 0.1) 0%, rgba(59, 130, 246, 0.1) 100%);
+    border: 1px solid rgba(6, 182, 212, 0.3);
+}
+
+.info-card.highlighted h3 {
+    color: #38bdf8;
+    /* Sky 400 */
+}
+
+.icon-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 16px;
+    background: rgba(6, 182, 212, 0.1);
+    color: #06b6d4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    border: 1px solid rgba(6, 182, 212, 0.2);
+}
+
+.google-ads-mid {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border: 2px dashed rgba(255, 255, 255, 0.1);
+    text-align: center;
+    color: var(--muted);
+    border-radius: var(--radius);
+    margin-top: 1rem;
+}
+
+@media (max-width: 900px) {
+    .dept-hero {
+        height: 40vh;
+        min-height: 350px;
+    }
+
+    .dept-hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .dept-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .dept-sidebar {
+        position: static;
+        margin-bottom: 2rem;
+    }
+}

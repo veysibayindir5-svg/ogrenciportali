@@ -1,0 +1,18 @@
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content {
+    flex: 1;
+    padding-top: 70px;
+}
+
+.footer {
+    padding: 3rem 1rem;
+    text-align: center;
+    border-top: 1px solid var(--border);
+    margin-top: 4rem;
+    color: var(--muted);
+}

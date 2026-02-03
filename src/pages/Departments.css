@@ -1,0 +1,110 @@
+.departments-page {
+    padding: 4rem 1rem;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    color: var(--primary);
+    margin-bottom: 1rem;
+}
+
+.filters {
+    display: flex;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    border-radius: var(--radius);
+    margin-bottom: 3rem;
+    flex-wrap: wrap;
+}
+
+.search-box,
+.faculty-filter {
+    flex: 1;
+    min-width: 250px;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: rgba(30, 41, 59, 0.6);
+    backdrop-filter: blur(12px);
+    padding: 0.75rem 1rem;
+    border-radius: var(--radius);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+.search-box input,
+.faculty-filter select {
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+    outline: none;
+    background: transparent;
+    color: white;
+}
+
+.faculty-filter select option {
+    background: #0f172a;
+    color: white;
+}
+
+.departments-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.dept-card .card-image {
+    position: relative;
+    height: 200px;
+}
+
+.dept-card .card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.faculty-badge {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    background: var(--primary);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+[dir="rtl"] .faculty-badge {
+    left: auto;
+    right: 1rem;
+}
+
+.card-content {
+    padding: 1.5rem;
+}
+
+.card-content h3 {
+    margin-bottom: 0.75rem;
+}
+
+.card-content p {
+    color: var(--muted);
+    font-size: 0.95rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+.btn-text {
+    color: var(--primary);
+    font-weight: 700;
+}
