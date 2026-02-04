@@ -10,14 +10,15 @@
   <meta name="description"
     content="Kilis'te öğrenci hayatına dair her şey: Bölümler, yurtlar, kampüs çevresi, ucuz yerler, ulaşım rehberi ve daha fazlası. | كل ما يخص حياة الطلاب في كيليس" />
   <meta name="keywords"
-    content="Kilis üniversite, öğrenci, bölümler, yurtlar, kampüs, Kilis 7 Aralık Üniversitesi, student portal" />
+    content="Kilis, Kilis üniversite, Kilis öğrenci, Kilis bölümler, Kilis yurtlar, Kilis kampüs, Kilis 7 Aralık Üniversitesi, Kilis ucuz yerler, Kilis ulaşım, Kilis ev kiralama, Kilis öğrenci hayatı, Kilis yemek yerleri, Kilis KYK yurtları, Kilis özel yurtlar, Kilis üniversite rehberi, Kilis 7 Aralık Üniversitesi bölümleri, Kilis üniversitesi kampüsü, Kilis ulaşım rehberi, Kilis öğrenci portalı, Kilis üniversite hayatı, Kilis öğrenci konaklama, كيليس, جامعة كيليس, طلاب كيليس, سكن طلاب كيليس, مواصلات كيليس" />
   <meta name="author" content="Kilis Öğrenci Portalı" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://kilisogrenciportali.com.tr/" />
   <meta property="og:title" content="Kilis Öğrenci Portalı" />
-  <meta property="og:description" content="Kilis'te öğrenci hayatına dair her şey burada." />
+  <meta property="og:description"
+    content="Kilis'te öğrenci hayatına dair her şey burada. Bölümler, yurtlar ve rehberler." />
   <meta property="og:locale" content="tr_TR" />
   <meta property="og:locale:alternate" content="ar_SY" />
 
@@ -28,6 +29,20 @@
   <meta property="twitter:description" content="Kilis'te öğrenci hayatına dair her şey burada." />
 
   <title>Kilis Öğrenci Portalı</title>
+
+  <!-- SPA Redirect Handler -->
+  <script type="text/javascript">
+    (function (l) {
+      if (l.search[1] === '/') {
+        var decoded = l.search.slice(1).split('&').map(function (s) {
+          return s.replace(/~and~/g, '&')
+        }).join('?');
+        window.history.replaceState(null, null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    }(window.location))
+  </script>
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
